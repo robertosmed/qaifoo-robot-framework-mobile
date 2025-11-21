@@ -1,0 +1,18 @@
+{
+  "name": "yodapp",
+  "version": "1.0.0",
+  "description": "protejo de teste automatizados para mobile com appium",
+  "license": "ISC",
+  "author": "Roberto Medeiros",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "appium": "^3.1.1"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^6.1.1"
+  }
+}
